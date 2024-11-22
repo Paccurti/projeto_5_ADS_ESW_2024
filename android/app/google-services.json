@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71092652279",
+    "project_id": "projeto-flutter-gustavo",
+    "storage_bucket": "projeto-flutter-gustavo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71092652279:android:cadff76c03b4432bb6abf2",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFicMvdrl649clLitz69fmQ0iD8gHJH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
